@@ -1,7 +1,7 @@
 # How-to-run-an-LGBTQ-Facebook-Group
 Ideas on how to govern and run an LGBTQ+ Facebook Group, page, or orgnaization in general.
 
-I have activism, tech, software engineering, data science skills I am volunteering
+I have activism, tech, software engineering, data science skills, and raw time I am volunteering.
 I feel an obligation to give back.
 
  ... but I'm no expert, that's why
