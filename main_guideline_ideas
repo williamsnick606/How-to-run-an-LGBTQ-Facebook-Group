@@ -1,20 +1,21 @@
-How-to-run-an-LGBTQ-Facebook-Group
+How-to-run-an-LGBTQ-Facebook Group, page, or other organizaiton.
 
 We love contributions : )
-Submit contributions/changes (pull requests), send me feedback, fork this repo (do not simply copy paste).
+Submit contributions/changes (pull requests), send me feedback, fork this repo (basically means copy it and use it for whatever you want, but
+do not simply copy-paste, then re-post specifically to GitHub without citing any original authors).
 
 Note: 
 . Non-coders welcome and highly encouraged to contribute : )
   - If you need help figuring things out shoot me an email.
 . The majority of this repo will be guidlines,
-    but code to solve more complex problems (like spam bots, API usage examples, etc is highly appreciated)
+    but code to solve more complex problems (like spam bots, API usage examples, etc is highly appreciated) and I will be contributing code myself.
 
 Original Author: 
 Nicholas P Williams
 (williamsnick606@gmail.com)
 
 Version: 0.01
-Last revision: April 29, 2022
+Last revision: May 3, 2022
 
 
 
@@ -30,10 +31,10 @@ Owner: a person or few people that have full digital control of everything that 
 - Explanation:
   - A Facebook group is like a digital town square.
   - You can’t simply have 1 or a few people own the entire thing. That is a dictatorship.
-    - Furthermore the often ownership is not diverse.
+    - Furthermore the often ownership needs to be diverse.
   - Diverse ownership
     - Not all people who are friends or will automatically agree with whatever another owner does.
-    - What letter of the LGBTQ+ are they?
+    - Which letter(s) of the LGBTQ+ are they?
     - Age
     - Ethnic background
     - Economic income bracket
@@ -57,10 +58,12 @@ Owner: a person or few people that have full digital control of everything that 
         considered “free speech” by the Supreme Court.
     - Easy to implement
 - Decentralized direct democracy 
-  - Every “verified” user owns a piece of the group. Likely a crypto token?
+  - Every “verified” user owns a piece of the group. Likely a crypto token? (This is absolutely not a crypto scam and this will likely not be 
+    implemented for a while if at all.
     - Maybe something with an expiry date to prevent inactive or bad faith users from participating.
-  - Ideas/venues/choices are voted on directly using a poll  or app
+  - Ideas/venues/choices are voted on directly using a poll or app
     - Must use rank-choice voting.
+    - Can anonymous google forms work?
     
     
     
@@ -117,6 +120,8 @@ Assumptions:
               How to run and improve Meetups
 
 - Increase attendance in general
+  - Make it possible for people to find your group.
+    - Put the group/page/whatever on meetup.com, they have good Search Engine Optimisation (SEO).
   - Make newcomers return
     - #0 understand why people add themselves to the group  / show up to an initial meetup in the first place.
       - My theory
