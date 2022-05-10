@@ -63,8 +63,10 @@ Owner: a person or few people that have full digital control of everything that 
         considered “free speech” by the Supreme Court.
     - Easy to implement
 - Decentralized direct democracy 
-  - Every “verified” user owns a piece of the group. Likely a crypto token? (This is absolutely not a crypto scam and this will likely not be 
-    implemented for a while if at all.
+  - Every “verified” user owns a piece of the group. Likely a crypto token? This is absolutely not a crypto scam and this will likely not be 
+    implemented for a while if at all. I'm thinking something like a Decentralized Autonomous Organization where each person own a share of the group and 
+    important things like voting on a preferred venue or banning somebody from the group would need to either a plurality or majority of the votes from each
+    active group member (a real democracy).
     - Maybe something with an expiry date to prevent inactive or bad faith users from participating.
   - Ideas/venues/choices are voted on directly using a poll or app
     - Must use rank-choice voting.
@@ -128,6 +130,7 @@ Assumptions:
   - Make it possible for people to find your group.
     - Put the group/page/whatever on meetup.com, they have good Search Engine Optimisation (SEO).
   - Make newcomers return
+    - Have an anonymous suggestion or feedback box or link where people can express their true feelings without being judged.
     - #0 understand why people add themselves to the group  / show up to an initial meetup in the first place.
       - My theory
         - The reason newcomers show up to the meetup is to make friends, find a partner, find a hookup, or are
