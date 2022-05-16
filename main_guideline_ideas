@@ -17,7 +17,8 @@ Nicholas P Williams
 (williamsnick606@gmail.com)
 
 Additional Authors:
-
+Christopher J. Madrigal
+(chrisjmadrigal@gmail.com)
 
 Version: 0.01
 Last revision: May 3, 2022 12:22pm
@@ -55,27 +56,31 @@ Owner: a person or few people that have full digital control of everything that 
 
 - Right now most Facebook groups are owned by just a few people
   - That is a dictatorship
-- Picking a better political structure 
-  - Elected representatives/owners
-    - Not ideal for many reasons
-      - Need I explain the current state of America? America is very corrupt. 
-        Right now unlimited campaign contributions for politicians from mega corporations and billionaires is 
-        considered “free speech” by the Supreme Court.
+- Picking a better political structure
+  - Option 1: Elected representatives/owners
     - Easy to implement
-- Decentralized direct democracy 
-  - Every “verified” user owns a piece of the group. Likely a crypto token? This is absolutely not a crypto scam and this will likely not be 
-    implemented for a while if at all. I'm thinking something like a Decentralized Autonomous Organization where each person own a share of the group and 
-    important things like voting on a preferred venue or banning somebody from the group would need to either a plurality or majority of the votes from each
-    active group member (a real democracy).
+    - Not ideal for many reasons; America is very corrupt. 
+      Right now unlimited campaign contributions for politicians from mega corporations and billionaires is 
+      considered “free speech” by the Supreme Court.
+  - Option 2: Decentralized direct democracy 
+    - Every “verified” user owns a piece of the group. Likely a crypto token? This is absolutely not a crypto scam and this will likely not be 
+      implemented for a while if at all. I'm thinking something like a Decentralized Autonomous Organization where each person own a share of the group and 
+      important things like voting on a preferred venue or banning somebody from the group would need to either a plurality or majority of the votes from each
+      active group member (a real democracy).
+      - Requires users to manage crypto, which is an unnecessary hardship
+      - Perhaps it is feasible to float a queer-coin or GFT (Gay NFT) over Ethereum
     - Maybe something with an expiry date to prevent inactive or bad faith users from participating.
-  - Ideas/venues/choices are voted on directly using a poll or app
-    - Must use rank-choice voting.
-    - Can anonymous google forms work?
-    
-    
-    
-    
-    
+    - Ideas/venues/choices are voted on directly using a poll or app
+      - Must use rank-choice voting.
+      - Can anonymous google forms work?
+  - Option 3: Special interest groups
+    - Similar to option 1 but requires subcommunities to manage themselves
+    - Each subcommunity can govern as they wish and submit representatives for a gay congress
+    - hard to manage in practice--how do we acheive a consistent global governance?
+
+
+
+
                                             Ideas to make LGBTQ+ meetups better
 
 
@@ -86,11 +91,11 @@ Demographics:
 
 - At minimum: capture age and LGBTQ+ status
 - LGBTQ+ identity 
-  - IE Gay man, lesbian, Bisexual, Trans man, Trans woman, Asexual, Intersex, gender fluid, etc.
+  - i.e. Gay man, lesbian, Bisexual, Trans man, Trans woman, Asexual, Intersex, gender fluid, etc.
 - Age
   - Or estimated age, or age bracket
 - Ethnic background
-  - Ethnic background IE Race
+  - Ethnic background i.e. Race
     - Race is kind of an outdated concept but you get what I mean
 - Occupation 
   - A note on occupation 
@@ -116,12 +121,13 @@ Assumptions:
 
 - Note: If peope don’t agree on these assumptions, then a lot of the information below is void.
 - We want the meetup to be inclusive 
-  - Ie friendly and enjoyable for every letter of the Alphabet Mafia (LGBTQIA+)
+  - i.e. friendly and enjoyable for every letter of the Alphabet Mafia (LGBTQIA+)
   - Do people from every letter really want to hang out together?
     - For example there’s a reason there used to be “gay bars” and “lesbian bars”.
 - We want newcomers to your local area to feel welcome, make friends, find a partner, etc.
-  - But iit would not be terribl if the meetup group becomes solely a place to find a hookup. 
+  - But it would not be terrible if the meetup group becomes solely a place to find a hookup. 
     That’s what Grindr and other dating apps are for.
+  - We could be providing community resources to make the dating experience safer, better structured, and less daunting
 
 
               How to run and improve Meetups
